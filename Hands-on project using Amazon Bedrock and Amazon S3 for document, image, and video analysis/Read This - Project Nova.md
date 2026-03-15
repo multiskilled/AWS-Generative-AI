@@ -95,20 +95,20 @@ This validated the model’s ability to interpret temporal visual content and re
 > Replace the image paths below with your actual screenshot file names after uploading them into a `screenshots` folder in the repo.
 
 ### 1. Amazon S3 media files used in the project
-![Project-Snaps/Using-Amazon-S3.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/Using%20Amazon%20S3.png)
+![https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/Using%20Amazon%20S3.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Hands-on%20project%20using%20Amazon%20Bedrock%20and%20Amazon%20S3%20for%20document%2C%20image%2C%20and%20video%20analysis/Project%20Snaps/Using%20Amazon%20S3.png)
 
 ### 2. Amazon Bedrock model selection - Nova Lite
-![screenshots/bedrock-model-selection.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/selecting%20model%20.png)
+![https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/selecting%20model%20.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Hands-on%20project%20using%20Amazon%20Bedrock%20and%20Amazon%20S3%20for%20document%2C%20image%2C%20and%20video%20analysis/Project%20Snaps/selecting%20model%20.png))
 
 ### 3. Document summarization in Bedrock Playground
-![screenshots/document-summary.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/Analysing%20PDF.png)
+![(https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/Analysing%20PDF.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Hands-on%20project%20using%20Amazon%20Bedrock%20and%20Amazon%20S3%20for%20document%2C%20image%2C%20and%20video%20analysis/Project%20Snaps/Analysing%20PDF.png)
 
 
 ### 4. Structured JSON response from image prompt
-![screenshots/json-output.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/JSON.png)
+![https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/JSON.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Hands-on%20project%20using%20Amazon%20Bedrock%20and%20Amazon%20S3%20for%20document%2C%20image%2C%20and%20video%20analysis/Project%20Snaps/JSON.png)
 
 ### 5. Video analysis output
-![screenshots/video-analysis.png](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/Analysing%20video%20Content.png)
+![(https://github.com/multiskilled/AWS-Generative-AI/blob/main/Exploring%20Amazon%20Nova%20Lite%20Model%20for%20Multimodal%20Understanding/Project%20Snaps/Analysing%20video%20Content.png)](https://github.com/multiskilled/AWS-Generative-AI/blob/main/Hands-on%20project%20using%20Amazon%20Bedrock%20and%20Amazon%20S3%20for%20document%2C%20image%2C%20and%20video%20analysis/Project%20Snaps/Analysing%20video%20Content.png)
 
 ---
 
